@@ -1,0 +1,284 @@
+Q: Quelle est la capitale de la France ?
+A: Paris.
+
+Q: Quelle est la capitale de l'Italie ?
+A: Rome.
+
+Q: Quelle est la capitale de l'Allemagne ?
+A: Berlin.
+
+Q: Quelle est la capitale de l'Espagne ?
+A: Madrid.
+
+Q: Quelle est la capitale du Portugal ?
+A: Lisbonne.
+
+Q: Quelle est la capitale de la Belgique ?
+A: Bruxelles.
+
+Q: Quelle est la capitale de la Suisse ?
+A: Berne.
+
+Q: Quelle est la capitale des Pays-Bas ?
+A: Amsterdam.
+
+Q: Quelle est la capitale du Royaume-Uni ?
+A: Londres.
+
+Q: Quelle est la capitale de l'Irlande ?
+A: Dublin.
+
+Q: Quelle est la capitale du Danemark ?
+A: Copenhague.
+
+Q: Quelle est la capitale de la Norvège ?
+A: Oslo.
+
+Q: Quelle est la capitale de la Suède ?
+A: Stockholm.
+
+Q: Quelle est la capitale de la Finlande ?
+A: Helsinki.
+
+Q: Quelle est la capitale de l’Islande ?
+A: Reykjavik.
+
+Q: Quelle est la capitale de la Grèce ?
+A: Athènes.
+
+Q: Quelle est la capitale de la Turquie ?
+A: Ankara.
+
+Q: Quelle est la capitale du Maroc ?
+A: Rabat.
+
+Q: Quelle est la capitale de l’Algérie ?
+A: Alger.
+
+Q: Quelle est la capitale de la Tunisie ?
+A: Tunis.
+
+Q: Quelle est la capitale de l’Égypte ?
+A: Le Caire.
+
+Q: Quelle est la capitale du Sénégal ?
+A: Dakar.
+
+Q: Quelle est la capitale du Nigeria ?
+A: Abuja.
+
+Q: Quelle est la capitale de l’Afrique du Sud ?
+A: Pretoria.
+
+Q: Quelle est la capitale des États-Unis ?
+A: Washington D.C.
+
+Q: Quelle est la capitale du Canada ?
+A: Ottawa.
+
+Q: Quelle est la capitale du Brésil ?
+A: Brasilia.
+
+Q: Quelle est la capitale de l’Argentine ?
+A: Buenos Aires.
+
+Q: Quelle est la capitale du Chili ?
+A: Santiago.
+
+Q: Quelle est la capitale du Pérou ?
+A: Lima.
+
+Q: Quelle est la capitale du Japon ?
+A: Tokyo.
+
+Q: Quelle est la capitale de la Chine ?
+A: Pékin.
+
+Q: Quelle est la capitale de l’Inde ?
+A: New Delhi.
+
+Q: Quelle est la capitale de l’Australie ?
+A: Canberra.
+
+Q: Quelle est la capitale de la Nouvelle-Zélande ?
+A: Wellington.
+
+Q: Quelle est la capitale du Mexique ?
+A: Mexico.
+
+Q: Quelle est la capitale de la Colombie ?
+A: Bogota.
+
+Q: Quelle est la capitale du Venezuela ?
+A: Caracas.
+
+Q: Quelle est la capitale du Paraguay ?
+A: Asuncion.
+
+Q: Quelle est la capitale de l’Uruguay ?
+A: Montevideo.
+
+Q: Combien font 5 x 7 ?
+A: 35.
+
+Q: Combien font 8 x 9 ?
+A: 72.
+
+Q: Combien font 12 + 15 ?
+A: 27.
+
+Q: Combien font 100 - 37 ?
+A: 63.
+
+Q: Combien font 144 ÷ 12 ?
+A: 12.
+
+Q: Combien font 81 ÷ 9 ?
+A: 9.
+
+Q: Quelle est la racine carrée de 49 ?
+A: 7.
+
+Q: Quelle est la racine carrée de 81 ?
+A: 9.
+
+Q: Quelle est la racine carrée de 121 ?
+A: 11.
+
+Q: Quelle est la racine carrée de 169 ?
+A: 13.
+
+Q: Qui a écrit Les Misérables ?
+A: Victor Hugo.
+
+Q: Qui a écrit Le Petit Prince ?
+A: Antoine de Saint-Exupéry.
+
+Q: Qui a peint la Joconde ?
+A: Léonard de Vinci.
+
+Q: Qui a découvert la loi de la gravitation universelle ?
+A: Isaac Newton.
+
+Q: Qui a développé la théorie de la relativité ?
+A: Albert Einstein.
+
+Q: Qui a inventé l’imprimerie en Europe ?
+A: Johannes Gutenberg.
+
+Q: Qui a inventé le téléphone ?
+A: Alexander Graham Bell.
+
+Q: Qui a inventé l’ampoule électrique ?
+A: Thomas Edison.
+
+Q: Qui a découvert la pénicilline ?
+A: Alexander Fleming.
+
+Q: Qui est le premier homme à avoir marché sur la Lune ?
+A: Neil Armstrong.
+
+Q: En quelle année l’homme a marché sur la Lune ?
+A: 1969.
+
+Q: Quelle est la planète la plus proche du Soleil ?
+A: Mercure.
+
+Q: Quelle est la deuxième planète du système solaire ?
+A: Vénus.
+
+Q: Quelle est la troisième planète du système solaire ?
+A: La Terre.
+
+Q: Quelle est la quatrième planète du système solaire ?
+A: Mars.
+
+Q: Quelle est la plus grande planète du système solaire ?
+A: Jupiter.
+
+Q: Quelle planète est surnommée la planète aux anneaux ?
+A: Saturne.
+
+Q: Quelle est la planète la plus éloignée du Soleil ?
+A: Neptune.
+
+Q: Quelle planète naine est située dans la ceinture de Kuiper ?
+A: Pluton.
+
+Q: Quelle est la vitesse de la lumière dans le vide ?
+A: 300 000 km/s.
+
+Q: Quel gaz les plantes absorbent-elles lors de la photosynthèse ?
+A: Le dioxyde de carbone.
+
+Q: Quel gaz les plantes rejettent-elles lors de la photosynthèse ?
+A: L’oxygène.
+
+Q: Quelle particule porte une charge négative ?
+A: L’électron.
+
+Q: Quelle est la plus petite unité de la vie ?
+A: La cellule.
+
+Q: Quel organe pompe le sang dans le corps humain ?
+A: Le cœur.
+
+Q: Quel organe est responsable de la respiration ?
+A: Les poumons.
+
+Q: Quel est l’état de l’eau à 0 °C ?
+A: Solide.
+
+Q: Quel est l’état de l’eau à 100 °C au niveau de la mer ?
+A: Gazeux.
+
+Q: Quel est le symbole chimique du fer ?
+A: Fe.
+
+Q: Quel est le symbole chimique de l’or ?
+A: Au.
+
+Q: Quel est le symbole chimique de l’argent ?
+A: Ag.
+
+Q: Quel est l’animal terrestre le plus rapide ?
+A: Le guépard.
+
+Q: Quel est l’animal marin le plus grand ?
+A: La baleine bleue.
+
+Q: Quel est le plus haut sommet du monde ?
+A: L’Everest.
+
+Q: Quelle est la langue la plus parlée au monde ?
+A: Le mandarin.
+
+Q: Quelle est la langue officielle du Brésil ?
+A: Le portugais.
+
+Q: Quelle est la langue officielle du Mexique ?
+A: L’espagnol.
+
+Q: Quelle est la langue officielle de l’Égypte ?
+A: L’arabe.
+
+Q: Quelle est la langue officielle de l’Allemagne ?
+A: L’allemand.
+
+Q: Quelle est la langue officielle de la France ?
+A: Le français.
+
+Q: Quelle est la monnaie officielle de la zone euro ?
+A: L’euro.
+
+Q: Quelle est la monnaie officielle des États-Unis ?
+A: Le dollar américain.
+
+Q: Quelle est la monnaie officielle du Royaume-Uni ?
+A: La livre sterling.
+
+Q: Quelle est la monnaie officielle du Japon ?
+A: Le yen.
+
+Q: Quelle est la monnaie officielle de la Chine ?
+A: Le yuan.
